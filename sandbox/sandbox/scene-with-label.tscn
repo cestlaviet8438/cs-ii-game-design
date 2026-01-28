@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://bbref86uhfrkb"]
+
+[node name="Label" type="Label"]
+offset_left = 31.0
+offset_top = 22.0
+offset_right = 153.0
+offset_bottom = 45.0
+text = "look it. it's a label. object permanence"
